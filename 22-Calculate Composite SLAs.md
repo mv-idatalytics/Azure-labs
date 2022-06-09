@@ -1,9 +1,9 @@
 ---
 wts:
-    title: '21 - Calculate Composite SLAs (5 min)'
+    title: '22 - Calculate Composite SLAs (5 min)'
     module: 'Module 06: Describe Azure cost management and service level agreements'
 ---
-# 21 - Calculate Composite SLAs (5 min)
+# 22 - Calculate Composite SLAs (5 min)
 
 In this walkthrough, we will determine availability SLA of Azure services and then calculate application composite SLA-based expected availability.
 

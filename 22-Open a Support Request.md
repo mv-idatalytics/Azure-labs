@@ -1,9 +1,9 @@
 ---
 wts:
-    title: '22 - Open a Support Request (5 min)'
+    title: '21 - Open a Support Request (5 min)'
     module: 'Not currently utilized in current exam'
 ---
-# 22 - Open a Support Request (5 min)
+# 21 - Open a Support Request (5 min)
 
 In this walkthrough, we will view available support plan options and then practice creating and monitoring a new support request.
 
